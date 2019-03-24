@@ -6,7 +6,10 @@ namespace A99_GitTeste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Olá mundo!");
+            Console.WriteLine("Bom dia!");
+
+            Console.WriteLine();
         }
     }
 }
